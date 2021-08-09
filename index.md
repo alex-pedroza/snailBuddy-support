@@ -80,7 +80,7 @@ YOU?](#request)
 ***In Short: ****** ****We collect information regarding your mobile
 device, when you use our App.*
 
-\
+
 
 If you use our App, we also collect the following information:
 
@@ -93,17 +93,17 @@ This information is primarily needed to maintain the security and
 operation of our App, for troubleshooting and for our internal analytics
 and reporting purposes.
 
-\
+
 
 **2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
 
-\
+
 
 **In Short:  We only share information with your consent, to comply
 with laws, to provide you with services, to protect your rights, or to
 fulfill business obligations.*
 
-\
+
 
 We may process or share your data that we hold based on the following
 legal basis:
@@ -140,16 +140,16 @@ personal information in the following situations:
     company assets, financing, or acquisition of all or a portion of our
     business to another company.
 
-\
+
 
 **3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?**     
 
-\
+
 
 ***In Short:  ****We may transfer, store, and process your information
 in countries other than your own.*
 
-\
+
 
 Our servers are located in. If you are accessing our App from outside,
 please be aware that your information may be transferred to, stored, and
@@ -157,7 +157,7 @@ processed by us in our facilities and by those third parties with whom
 we may share your personal information (see "[WILL YOUR INFORMATION BE
 SHARED WITH ANYONE?](#infoshare)" above), in and other countries.
 
-\
+
 
 If you are a resident in the European Economic Area (EEA) or United
 Kingdom (UK), then these countries may not necessarily have data
@@ -166,17 +166,17 @@ country. We will however take all necessary measures to protect your
 personal information in accordance with this privacy notice and
 applicable law.
 
-\
+
 
 **4. HOW LONG DO WE KEEP YOUR INFORMATION?**
 
-\
+
 
 ***In Short: **** We keep your information for as long as necessary to
 fulfill the purposes outlined in this privacy notice unless otherwise
 required by law.*
 
-\
+
 
 We will only keep your personal information for as long as it is
 necessary for the purposes set out in this privacy notice, unless a
@@ -184,7 +184,7 @@ longer retention period is required or permitted by law (such as tax,
 accounting or other legal requirements). No purpose in this notice will
 require us keeping your personal information for longer than 90 days.
 
-\
+
 
 When we have no ongoing legitimate business need to process your
 personal information, we will either delete or anonymize such
@@ -193,16 +193,16 @@ personal information has been stored in backup archives), then we will
 securely store your personal information and isolate it from any further
 processing until deletion is possible.
 
-\
+
 
 **5. HOW DO WE KEEP YOUR INFORMATION SAFE?**
 
-\
+
 
 ***In Short: **** We aim to protect your personal information through a
 system of organizational and technical security measures.*
 
-\
+
 
 We have implemented appropriate technical and organizational security
 measures designed to protect the security of any personal information we
@@ -216,11 +216,11 @@ our best to protect your personal information, transmission of personal
 information to and from our App is at your own risk. You should only
 access the App within a secure environment.
 
-\
+
 
 **6. WHAT ARE YOUR PRIVACY RIGHTS?**
 
-\
+
 
 ***In Short:****  **You may review, change, or terminate your account at
 any time.*
@@ -233,17 +233,17 @@ complain to your local data protection supervisory authority. You can
 find their contact details here:
 [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
 
-\
+
 
 If you are a resident in Switzerland, the contact details for the data
 protection authorities are available here:
 [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
-\
+
 
 **7. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
-\
+
 
 Most web browsers and some mobile operating systems and mobile
 applications include a Do-Not-Track ("DNT") feature or setting you can
@@ -256,11 +256,11 @@ choice not to be tracked online. If a standard for online tracking is
 adopted that we must follow in the future, we will inform you about that
 practice in a revised version of this privacy notice. 
 
-\
+
 
 **8. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
-\
+
 
 ***In Short: **** Yes, if you are a resident of California, you are
 granted specific rights regarding access to your personal information.*
@@ -311,7 +311,7 @@ to be informed of how we are protecting your information.
 
 **10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**     
 
-\
+
 
 If you have questions or comments about this notice, you may email us at
 snailbuddyios@gmail.com.
